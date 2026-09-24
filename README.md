@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🏃 India Runs — Candidate Ranking System
-
+ 
 **AI-powered candidate discovery built for the India Runs Data & AI Challenge**
 
 *Processes and ranks candidates from a dataset of 100,000+ resumes using a hybrid pipeline combining feature engineering, semantic search, and FAISS vector retrieval.*
